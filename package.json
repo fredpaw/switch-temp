@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
-    "nodemailer": "^6.4.6"
+    "nodemailer": "^6.4.16"
   }
 }
